@@ -41,7 +41,7 @@ my_dictionary["new_key"] = new_value
 
 *Getting Values
     my_dictionary.values()
-        #The method.values() will only referr to the "value" elements of the list
+        #The method.values() will only referr to the "value" elements of the list 
 
 *Getting Keys
     my_dictionary.keys()
